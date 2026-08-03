@@ -8,10 +8,10 @@ This repository contains my activities, notes, projects, and reflections for my 
 
 ### 📚 Contents
 
-- Class Notes
-- Laboratory Activities
-- Mini Projects
-- Reflection Papers
+- Class notes and summaries
+- Laboratory activities and exercises
+- Mini projects
+- Reflection papers
 
 ## 👤 Student Information
 

@@ -30,8 +30,13 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 ```
+## 🎯 Repository Goal
 
-## 📖 Topics Covered
+This repository is created to organize all my Cloud Computing course requirements, including activities, notes, projects, and reflections. It also serves as a portfolio of my learning and progress throughout the course.
+
+---
+
+## 📚 Key Concepts Covered
 
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
@@ -39,19 +44,17 @@ cloud-computing-course/
 - Version Control with Git & GitHub
 - Cloud Infrastructure Management
 
-## 🎯 Repository Goal
+---
 
-This repository is created to organize all my Cloud Computing course requirements, including activities, notes, projects, and reflections. It also serves as a portfolio of my learning and progress throughout the course.
+## 🛠️ Tools Used
 
-## 📬 GitHub Repository
+- Git
+- GitHub
+- Visual Studio Code
+- Markdown
 
-**Repository Name:** `cloud-computing-course`
+---
 
-**GitHub Link:**
-```
-https://github.com/ianrussellabaigar-droid/cloud-computing-course
-```
+## 📜 License
 
-## 🎯 Goal
-
-To organize all my Cloud Computing activities and projects using GitHub.
+This project is licensed under the **MIT License**.

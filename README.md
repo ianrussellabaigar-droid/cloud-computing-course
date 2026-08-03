@@ -30,6 +30,11 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 ```
+## 🎯 Repository Goal
+
+This repository is created to organize all my Cloud Computing course requirements, including activities, notes, projects, and reflections. It also serves as a portfolio of my learning and progress throughout the course.
+
+---
 
 ## 📚 Key Concepts Covered
 

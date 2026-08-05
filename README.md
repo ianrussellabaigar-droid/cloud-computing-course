@@ -16,7 +16,7 @@ This repository contains my activities, notes, projects, and reflections for my 
 ## 👤 Student Information
 
 - **Name:** Russell Ian Abaigar
-- **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 4th Year
+- **Course/Section:** BSIT - 4A
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
